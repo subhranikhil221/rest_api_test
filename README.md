@@ -14,3 +14,18 @@ Utilized Flutter's FutureBuilder for effective state management, handling loadin
 Designed a clean UI with a main Scaffold, AppBar, and a responsive body that displays a loading indicator, error message, or a ListView of post titles and bodies.
 
 Shared the project on GitHub for further exploration, showcasing practical experience in Flutter app development and API integration.
+
+How to run this??
+
+clone the repo
+
+open the folder in the terminal
+
+do - Flutter pub get
+(which install all dependencies)
+
+then Flutter run
+
+choose the platform (Android , windows and Desktop)
+
+#thank you
